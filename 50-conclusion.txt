@@ -1,0 +1,5 @@
+In conclusion:
+
+- vim-pipe to get started tomorrow.
+
+- ft_sql.vim for the road ahead.
