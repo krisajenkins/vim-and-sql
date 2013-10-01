@@ -1,5 +1,6 @@
 In conclusion:
 
 - vim-pipe to get started tomorrow.
-
-- ft_sql.vim for the road ahead.
+- DBExt for the road ahead.
+- Highlighting-in-highlighting to impress your
+	friends at parties.

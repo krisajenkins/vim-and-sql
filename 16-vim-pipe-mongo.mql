@@ -1,3 +1,4 @@
 use bookr;
-db.book.find(null, {author: 1, asin: 1});
+db.book.find(null, {author: 1, asin: 1}).limit(5);
+
 db.runCommand({dbStats: 1});

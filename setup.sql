@@ -9,7 +9,7 @@ CREATE TABLE crawler (
 
 INSERT INTO crawler VALUES ( 101, 'Google' );
 INSERT INTO crawler VALUES ( 202, 'Yahoo' );
-INSERT INTO crawler VALUES ( 303, 'MSN' );
+INSERT INTO crawler VALUES ( 303, 'Bing' );
 INSERT INTO crawler VALUES ( 404, 'Ask' );
 
 CREATE TABLE search (
